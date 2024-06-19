@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+
+.wrapper button{
+    width: 150px;
+    height: 150px;
+}
+
+.red{
+    background-color: goldenrod;
+}
